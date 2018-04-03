@@ -1,0 +1,14 @@
+C:\Users\付景昌\Documents\Visual Studio 2017\Projects\novel\novel\bin\Debug\novel.exe.config
+C:\Users\付景昌\Documents\Visual Studio 2017\Projects\novel\novel\bin\Debug\novel.exe
+C:\Users\付景昌\Documents\Visual Studio 2017\Projects\novel\novel\bin\Debug\novel.pdb
+C:\Users\付景昌\Documents\Visual Studio 2017\Projects\novel\novel\obj\Debug\novel.csprojResolveAssemblyReference.cache
+C:\Users\付景昌\Documents\Visual Studio 2017\Projects\novel\novel\obj\Debug\novel.Form1.resources
+C:\Users\付景昌\Documents\Visual Studio 2017\Projects\novel\novel\obj\Debug\novel.Properties.Resources.resources
+C:\Users\付景昌\Documents\Visual Studio 2017\Projects\novel\novel\obj\Debug\novel.csproj.GenerateResource.cache
+C:\Users\付景昌\Documents\Visual Studio 2017\Projects\novel\novel\obj\Debug\novel.csproj.CoreCompileInputs.cache
+C:\Users\付景昌\Documents\Visual Studio 2017\Projects\novel\novel\obj\Debug\novel.exe
+C:\Users\付景昌\Documents\Visual Studio 2017\Projects\novel\novel\obj\Debug\novel.pdb
+C:\Users\付景昌\Documents\Visual Studio 2017\Projects\novel\novel\bin\Debug\HtmlAgilityPack.dll
+C:\Users\付景昌\Documents\Visual Studio 2017\Projects\novel\novel\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\付景昌\Documents\Visual Studio 2017\Projects\novel\novel\bin\Debug\HtmlAgilityPack.xml
+C:\Users\付景昌\Documents\Visual Studio 2017\Projects\novel\novel\obj\Debug\novel.csproj.CopyComplete
